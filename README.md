@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Abioye Oyatoye (@Abwonder on Github)
-- 👀 I’m interested in Programming, Data Science and Machine Learning 
-- 🌱 I’m currently learning python, R programming, and R statistics
-- 💞️ I’m looking to collaborate on Python project that could help my development processes
-- 📫 How to reach me, you can reach me through my mail abioyeoyatoye0955@gmail.com
+- 👋 Hi, I’m Abioye Elijah Oyatoye (@Abwonder on Github)
+- 👀 I’m a cybersecurity con Data Science and Machine Learning Enthusiaste
+- 🌱 I currently have handful experience with R programming for data analysis and basic python skillset
+- 💞️ I’m currently in cybersecurity simulator training and undergoing further training for data science with Datascience Master at PWSKILLS online institution
+- I look forward to collaboration
 
 <!---
 Abwonder/Abwonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
